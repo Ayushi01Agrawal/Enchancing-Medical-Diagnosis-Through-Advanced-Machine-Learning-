@@ -5,9 +5,13 @@ Celebal Tech Summer intern project.
 
 Group Members :
 Ayushi Agrawal - ayushiagrawal02922@gmail.com
+
 Neha Dutta-dutta2020neha@gmail.com
+
 Badal Singh Rathore - badalsinghrathore89@gmail.com
+
 Divy Sharma-divysharma2508@gmail.com
+
 Sukhvir Singh-13sukhvir.s@gmail.com
 
 
